@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 70-to-`100-Day-of-Coding`-Challenge
 
 # 🚀 100 Days of Coding Challenge 🚀
@@ -45,4 +45,5 @@ Are you ready to embark on this 100-day journey? Remember, the path to becoming 
 
 =======
 # `70-to-100`-Day-of-Coding-Challenge
->>>>>>> 98d5977fad15491f714b6a7cd555d3386f26b451
+
+
